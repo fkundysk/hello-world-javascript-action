@@ -17,7 +17,7 @@ The time we greeted you.
 ## Example usage
 
 ```yaml
-uses: fkundysk/hello-world-javascript-action@e76147da8e5c81eaf017dede5645551d4b94427b
+uses: fkundysk/hello-world-javascript-action@v1.1
 with:
   who-to-greet: 'Mona the Octocat'
 ```
